@@ -1,1 +1,1 @@
-# Static_web_page-ProgrammerCollege
+# 【研修課題】プログラマカレッジで制作したページ
