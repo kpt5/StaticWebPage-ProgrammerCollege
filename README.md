@@ -1,4 +1,4 @@
-# 【研修課題】プログラマカレッジで制作した静的Webページ
+# 【研修課題@プログラマカレッジ】静的Webページ
 　 https://kpt5.github.io/JS_Exercise-ProgrammerCollege/
 <br>
 <br>　・2カラムレイアウト
